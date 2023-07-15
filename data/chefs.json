@@ -1,5 +1,4 @@
-{
-    "chefs":
+
      [
       {
         "id": "1",
@@ -9,8 +8,13 @@
         "yearsExperience": 8,
         "likes": 10000,
         "recipeDetailsPage": "Richard Sharples is executive chef of Gary Usher's Elite Bistros collection of restaurants, and has helped Gary expand one of the most exciting hospitality groups in the country. We caught up with the Burnley-born chef to see what else is on the horizon."
-       
-      },
+  ,    "recipeImg1":"https://i.ibb.co/g6Fk6Lk/recipe-8.jpg"  
+   ,   "recipeImg2":"https://i.ibb.co/MVBwMqX/recipe-3.jpg"  
+    ,  "recipeImg3":"https://i.ibb.co/R6qbwZm/recipe-1.jpg"  
+  , "ratings1" : 4.85      
+  , "ratings2" : 4.75      
+  , "ratings3" : 5.0      
+  },
       {
         "id": "2",
         "name": "Lorcan Spiteri",
@@ -18,9 +22,14 @@
         "numRecipes": 75,
         "yearsExperience": 10,
         "likes": 8000,
-        "recipeDetailsPage": "The son of two of London’s most renowned restaurateurs, Lorcan Spiteri has gone on to forge an impressive career of his own, working at the likes of Quo Vadis before opening his own restaurant alongside his brother. We caught up with him shortly after the opening of his newest concept Caravel."
-   
-      },
+        "recipeDetailsPage": "The son of two of London’s most renowned restaurateurs, Lorcan Spiteri has gone on to forge an impressive career of his own, working at the likes of Quo Vadis before opening his own restaurant alongside his brother. We caught up with him shortly after the opening of his newest concept Caravel.",
+   "recipeImg1":"https://i.ibb.co/C6tDpM2/recipe-6.jpg" ,
+   "recipeImg2":"https://i.ibb.co/R0PBkbj/recipe-4.jpg" ,
+   "recipeImg3":"https://i.ibb.co/nRvfj1W/recipe-13.jpg" 
+  , "ratings1" : 4.85      
+  , "ratings2" : 4.75     
+  , "ratings3" : 5.0     
+  },
       {
         "id": "3",
         "name": "Luke Selby",
@@ -28,9 +37,14 @@
         "numRecipes": 100,
         "yearsExperience": 7,
         "likes": 15000,
-        "recipeDetailsPage": "Young National Chef of the Year, National Chef of the Year, Roux Scholar and head chef at Hide Above – even the sky is struggling to keep a lid on Luke Selby’s talent. Pete Dreyer spoke to the young chef about his journey so far.'I always wanted to be a chef. I don't know why – maybe it was just being surrounded by nature where I grew up – but I was always going to be a chef. I remember not ever wanting to be anything else,'said Selby."
-       
-      },
+        "recipeDetailsPage": "Young National Chef of the Year, National Chef of the Year, Roux Scholar and head chef at Hide Above – even the sky is struggling to keep a lid on Luke Selby’s talent. Pete Dreyer spoke to the young chef about his journey so far.'I always wanted to be a chef. I don't know why – maybe it was just being surrounded by nature where I grew up – but I was always going to be a chef,'said Selby."
+  ,    "recipeImg1":"https://i.ibb.co/R0PBkbj/recipe-4.jpg"  
+   ,   "recipeImg2":"https://i.ibb.co/Tw3rtZN/recipe-9.jpg"  
+    ,  "recipeImg3":"https://i.ibb.co/Yfg5tsh/recipe-5.jpg"  
+  , "ratings1" : 5.0      
+  , "ratings2" : 4.5     
+  , "ratings3" : 4.0     
+  },
       {
         "id": "4",
         "name": "Matt Ryle",
@@ -38,9 +52,14 @@
         "numRecipes": 120,
         "yearsExperience": 8,
         "likes": 12000,
-        "recipeDetailsPage": "Beginning his career aged just fifteen at a Michelin-starred restaurant, Matt Ryle has gone on to spend time at a variety of different restaurants figuring out the style of food that makes him tick. Now as head chef of London's gloriously French all-day brasserie Maison Francois, he's found his happy place cooking simple yet flavour-packed classical food.'When I started cooking, I thought that Michelin stars and fine dining was the peak of food,' Matt explains. 'But over time as I ate in more of those types of restaurants, I started to realise that I didn't enjoy those sorts of places as much as I first thought. It would be lovely mouthfuls but I wanted platefuls! At the same time, I was eating at restaurants doing food that was simpler but just as delicious, and started to think that maybe there's a nice blend.'"
-       
-      },
+        "recipeDetailsPage": "Beginning his career aged just fifteen at a Michelin-starred restaurant, Matt Ryle has gone on to spend time at a variety of different restaurants figuring out the style of food that makes him tick. Now as head chef of London's gloriously French all-day brasserie Maison Francois, he's found his happy place cooking simple yet flavour-packed classical food."
+  ,    "recipeImg1":"https://i.ibb.co/G9R3WBP/recipe-13.jpg"  
+   ,   "recipeImg2":"https://i.ibb.co/HpYjrZt/recipe-11.jpg"  
+    ,  "recipeImg3":"https://i.ibb.co/MVBwMqX/recipe-3.jpg"  
+  , "ratings1" : 4.75      
+  , "ratings2" : 4.50      
+  , "ratings3" : 5.0    
+  },
       {
         "id": "5",
         "name": "Ben Marks",
@@ -49,8 +68,13 @@
         "yearsExperience": 8,
         "likes": 5000,
         "recipeDetailsPage": "A star is rising in north-east London. At twenty-four years old, with ten years of experience in professional kitchens and a resume that boasts the likes of Claridge’s, The Square and Noma, Ben Marks is a serious talent."
-        
-      },
+  ,    "recipeImg1":"https://i.ibb.co/g6Fk6Lk/recipe-8.jpg"   
+   ,   "recipeImg2":"https://i.ibb.co/R0PBkbj/recipe-4.jpg"   
+    ,  "recipeImg3":"https://i.ibb.co/C6tDpM2/recipe-6.jpg"   
+   , "ratings1" : 5.0      
+    , "ratings2" : 4.25      
+    , "ratings3" : 4.5      
+  },
       {
         "id": "6",
         "name": "Fred Clapperton",
@@ -59,8 +83,12 @@
         "yearsExperience": 5,
         "likes": 9000,
         "recipeDetailsPage": "When Drake's became The Clock House in January 2017, the role of head chef was thrust onto Fred Clapperton. Eight months later, he's making the menu his own."
-        
-      }
+  ,    "recipeImg1":"https://i.ibb.co/mzrDJDj/recipe-12.jpg"   
+   ,   "recipeImg2":"https://i.ibb.co/nbQ5nYr/recipe-3.jpg"   
+    ,  "recipeImg3":"https://i.ibb.co/Tw3rtZN/recipe-9.jpg"   
+  ,"ratings1" : 5.0      
+  , "ratings2" : 4.50      
+  , "ratings3" : 4.45     
+  }
    
     ]
-  }
