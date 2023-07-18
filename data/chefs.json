@@ -11,9 +11,9 @@
   ,    "recipeImg1":"https://i.ibb.co/g6Fk6Lk/recipe-8.jpg"  
    ,   "recipeImg2":"https://i.ibb.co/MVBwMqX/recipe-3.jpg"  
     ,  "recipeImg3":"https://i.ibb.co/R6qbwZm/recipe-1.jpg"  
-  , "ratings1" : 4.85      
-  , "ratings2" : 4.75      
-  , "ratings3" : 5.0      
+  , "ratings1" : "4.85"      
+  , "ratings2" : "4.75"      
+  , "ratings3" : "5.0"     
   },
       {
         "id": "2",
@@ -26,9 +26,9 @@
    "recipeImg1":"https://i.ibb.co/C6tDpM2/recipe-6.jpg" ,
    "recipeImg2":"https://i.ibb.co/R0PBkbj/recipe-4.jpg" ,
    "recipeImg3":"https://i.ibb.co/nRvfj1W/recipe-13.jpg" 
-  , "ratings1" : 4.85      
-  , "ratings2" : 4.75     
-  , "ratings3" : 5.0     
+  , "ratings1" : "4.85 "     
+  , "ratings2" : "4.75"     
+  , "ratings3" : "5.0 "   
   },
       {
         "id": "3",
@@ -41,9 +41,9 @@
   ,    "recipeImg1":"https://i.ibb.co/R0PBkbj/recipe-4.jpg"  
    ,   "recipeImg2":"https://i.ibb.co/Tw3rtZN/recipe-9.jpg"  
     ,  "recipeImg3":"https://i.ibb.co/Yfg5tsh/recipe-5.jpg"  
-  , "ratings1" : 5.0      
-  , "ratings2" : 4.5     
-  , "ratings3" : 4.0     
+  , "ratings1" : "5.0"      
+  , "ratings2" : "4.5"     
+  , "ratings3" : "4.0"     
   },
       {
         "id": "4",
@@ -56,9 +56,9 @@
   ,    "recipeImg1":"https://i.ibb.co/G9R3WBP/recipe-13.jpg"  
    ,   "recipeImg2":"https://i.ibb.co/HpYjrZt/recipe-11.jpg"  
     ,  "recipeImg3":"https://i.ibb.co/MVBwMqX/recipe-3.jpg"  
-  , "ratings1" : 4.75      
-  , "ratings2" : 4.50      
-  , "ratings3" : 5.0    
+  , "ratings1" : "4.75"      
+  , "ratings2" : "4.5"     
+  , "ratings3" : "5.0"    
   },
       {
         "id": "5",
@@ -71,9 +71,9 @@
   ,    "recipeImg1":"https://i.ibb.co/g6Fk6Lk/recipe-8.jpg"   
    ,   "recipeImg2":"https://i.ibb.co/R0PBkbj/recipe-4.jpg"   
     ,  "recipeImg3":"https://i.ibb.co/C6tDpM2/recipe-6.jpg"   
-   , "ratings1" : 5.0      
-    , "ratings2" : 4.25      
-    , "ratings3" : 4.5      
+   , "ratings1" : "5.0"      
+    , "ratings2" : "4.25"      
+    , "ratings3" : "4.5"      
   },
       {
         "id": "6",
@@ -86,9 +86,9 @@
   ,    "recipeImg1":"https://i.ibb.co/mzrDJDj/recipe-12.jpg"   
    ,   "recipeImg2":"https://i.ibb.co/nbQ5nYr/recipe-3.jpg"   
     ,  "recipeImg3":"https://i.ibb.co/Tw3rtZN/recipe-9.jpg"   
-  ,"ratings1" : 5.0      
-  , "ratings2" : 4.50      
-  , "ratings3" : 4.45     
+  ,"ratings1" : "5.0"      
+  , "ratings2" : "4.5"      
+  , "ratings3" : "4.45"     
   }
    
     ]
